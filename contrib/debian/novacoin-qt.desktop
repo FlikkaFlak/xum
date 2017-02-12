@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=LuminosityCoin
+Comment=LuminosityCoin P2P Cryptocurrency
+Comment[ru]=LuminosityCoin, P2P криптовалюта
+Comment[fr]=LuminosityCoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=LuminosityCoin, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/LuminosityCoin-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/LuminosityCoin80.xpm
+MimeType=x-scheme-handler/LuminosityCoin;
+Categories=Office;

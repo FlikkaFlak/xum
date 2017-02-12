@@ -1,0 +1,11 @@
+[Unit]
+Description=LuminosityCoin daemon serivce
+After=network.target
+
+[Service]
+Type=simple
+User=LuminosityCoin
+ExecStart=/opt/LuminosityCoin/LuminosityCoind
+
+[Install]
+WantedBy=multi-user.target

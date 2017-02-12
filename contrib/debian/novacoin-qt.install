@@ -1,0 +1,5 @@
+LuminosityCoin-qt usr/bin
+share/pixmaps/LuminosityCoin32.xpm usr/share/pixmaps
+share/pixmaps/LuminosityCoin80.xpm usr/share/pixmaps
+debian/LuminosityCoin-qt.desktop usr/share/applications
+debian/LuminosityCoin-qt.protocol usr/share/kde4/services/
